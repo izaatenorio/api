@@ -1,4 +1,4 @@
-#.env
+# .env
 HOST=127.0.0.1 <br>
 PORT=3333 <br> 
 NODE_ENV=development <br>
